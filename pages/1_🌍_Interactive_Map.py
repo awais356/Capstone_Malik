@@ -2,8 +2,7 @@ import streamlit as st
 import leafmap.foliumap as leafmap
 
 markdown = """
-A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+App to vizualize the Forest Data of Cornerbrook
 """
 
 st.sidebar.title("About")
