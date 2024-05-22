@@ -12,7 +12,7 @@ logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
 
 
-st.title("Interactive Map")
+st.title("Visulizing Forest")
 
 col1, col2 = st.columns([4, 1])
 options = list(leafmap.basemaps.keys())
