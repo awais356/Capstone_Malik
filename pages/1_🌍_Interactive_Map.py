@@ -8,7 +8,7 @@ A Streamlit map template
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "TANaU-tP7TxQuwMPkmMIDT9KRv6DBOKIQcfaCui7d1kodamqjWYyeZmhfZNpuLIXVfSmc8wrnNSMGJsWz7XZyAO7e09qkRFXKsDOGOcJamnquTwQKT5totFTZ7pktUHDpdx43SPDjc8jc7Is-U2UUtAeJc3p0oKQ2bOAebJR3UK89Q7-Z0wfxQPYqIq_viNhTqlk2pdwYg0cEfM06nJz7LgbL_9BJKjpmzMMIDpfWSo92059MgozjEYi-IhXJy2k2nL-Y24cTC4IbImBGfFzzm-SCXgCXguu2qRXUZWzh0OMHPlZPPqEFuvph5xbXokrQwZAGcjYK9QVeuhkA&udm=2&prmd=ivnsmbtz&sa=X&ved=2ahUKEwjsitWYqKGGAxUNHzQIHX2LATcQtKgLegQIEBAB&biw=1280&bih=855&dpr=1#vhid=rRaLSrPtAeaVVM&vssid=mosaic"
+logo =''
 st.sidebar.image(logo)
 
 
