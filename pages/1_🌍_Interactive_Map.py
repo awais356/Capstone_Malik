@@ -8,7 +8,7 @@ A Streamlit map template
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://i.imgur.com/UbOXYAU.png"
+logo = "https://www.google.com/search?sca_esv=8b3c2fe050857b40&sca_upv=1&rlz=1C1GCEA_enCA1108CA1108&sxsrf=ADLYWIKoP1MpZtkX389JfUnjLqBiSNlYCg:1716382799857&q=forest+inventory&uds=ADvngMiIMiMH9LyyITANaU-tP7TxQuwMPkmMIDT9KRv6DBOKIQcfaCui7d1kodamqjWYyeZmhfZNpuLIXVfSmc8wrnNSMGJsWz7XZyAO7e09qkRFXKsDOGOcJamnquTwQKT5totFTZ7pktUHDpdx43SPDjc8jc7Is-U2UUtAeJc3p0oKQ2bOAebJR3UK89Q7-Z0wfxQPYqIq_viNhTqlk2pdwYg0cEfM06nJz7LgbL_9BJKjpmzMMIDpfWSo92059MgozjEYi-IhXJy2k2nL-Y24cTC4IbImBGfFzzm-SCXgCXguu2qRXUZWzh0OMHPlZPPqEFuvph5xbXokrQwZAGcjYK9QVeuhkA&udm=2&prmd=ivnsmbtz&sa=X&ved=2ahUKEwjsitWYqKGGAxUNHzQIHX2LATcQtKgLegQIEBAB&biw=1280&bih=855&dpr=1#vhid=rRaLSrPtAeaVVM&vssid=mosaic"
 st.sidebar.image(logo)
 
 
